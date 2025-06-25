@@ -6,7 +6,7 @@
 
   <br>
 
-  [![Gmail](https://img.shields.io/badge/gmail-%23556B2F?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](kauanlucascamacho@gmail.com)
+  [![Gmail](https://img.shields.io/badge/gmail-%23556B2F?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](Email:kauanlucascamacho@gmail.com)
   [![Instagram](https://img.shields.io/badge/instagram-%23556B2F?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF)](https://www.instagram.com/kamyzmedino/?next=%2F)
   [![Facebook](https://img.shields.io/badge/facebook-%23556B2F?style=for-the-badge&logo=facebook&logoColor=%23FFFFFF)](https://discord.gg/8kc8HqXVw2)
   [![WhatsApp](https://img.shields.io/badge/whatsapp-%23556B2F?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF)](https://wa.me/5584988964920)
