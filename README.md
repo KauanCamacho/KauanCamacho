@@ -1,4 +1,4 @@
-### Olá Mundo!🌍 eu sou Kauan apenas um programador ☝️🤓
+### Olá Mundo!🌍 eu sou Kauan apenas um programador front-end ☝️🤓
 
   - 🎓 Cursando Ciência de Computação 2/8
   - 🚀 Pro em Desenvolvinto Front-end
