@@ -2,7 +2,7 @@
 
 **`🚀 Programador Front-End`** 
 
-Olá, me chamo Kauan Camacho, tenho 20 anos. **Sou uma pessoa apaixonado por tecnologia, muito criativa e com ideais fora da caixa💡**. 
+Olá, me chamo Kauan Camacho, tenho 20 anos. **Sou apaixonado por tecnologia, muito criativo e com ideais fora da caixa💡**.<br>
 Atualmente, estou cursando Ciência da Computação, e pretendo seguir uma carreira como **Programador Front-End** buscando transformar minhas ideais criativas em projetos reais e inovadores 🧠.
 
 <div>
@@ -15,7 +15,7 @@ target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=fo
 
 ---
 
-#### 🤖 Hard skills
+**`🤖 Hard skills`**
 
 <img 
     align="left" 
@@ -64,6 +64,6 @@ target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=fo
 
 
 <div align="">
-  <img src="https://imgur.com/o6NOHiJ.gif" width="160">
+  <img src="https://imgur.com/o6NOHiJ.gif" width="120">
 </div>
 
