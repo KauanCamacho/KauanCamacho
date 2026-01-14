@@ -7,7 +7,7 @@ Atualmente, estou cursando Ciência da Computação, e pretendo seguir uma carre
 
 <div>
 <a href="https://www.instagram.com/camachokauanlucas/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-palevioletred?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="(https://wa.me/5519994508242" target="_blank"><img src="https://img.shields.io/badge/whatsapp-darkseagreen?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF" target="_blank"></a> 
+<a href="https://wa.me/5519994508242" target="_blank"><img src="https://img.shields.io/badge/whatsapp-darkseagreen?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF" target="_blank"></a> 
 <a href="http://linkedin.com/in/kauan-camacho-6218b9371" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-cornflowerblue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:kauanlucascamacho@gmail.com"
 target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
