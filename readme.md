@@ -1,9 +1,9 @@
 #  🧑🏻‍💻 Kauan Camacho 
 
-**`🚀 Programador Front-End`** 
+**`🚀 Desenvolvedor Front-End`** 
 
 Olá, me chamo Kauan Camacho, tenho 20 anos. **Sou apaixonado por tecnologia, muito criativo e com ideais fora da caixa💡**.<br>
-Atualmente, estou cursando Ciência da Computação, e pretendo seguir uma carreira como **Programador Front-End** buscando transformar minhas ideais criativas em projetos reais e inovadores 🧠.
+Atualmente, estou cursando Ciência da Computação, e pretendo seguir uma carreira como **Desenvolvedor Front-End** buscando transformar minhas ideais criativas em projetos reais e inovadores 🧠.
 
 <div>
 <a href="https://www.instagram.com/camachokauanlucas/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-palevioletred?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
